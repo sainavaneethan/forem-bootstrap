@@ -1,12 +1,5 @@
 @import "bootstrap";
-
-/*
- *= require forem/bootstrap/forums
- *= require forem/bootstrap/topics
- *= require forem/bootstrap/posts
- *= require forem/bootstrap/admin/groups
- *= require_self
-*/
+@import "forem/bootstrap/*";
 
 nav {
   margin-top: 10px;
